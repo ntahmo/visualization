@@ -1,4 +1,4 @@
-﻿---
+---
 marp: true
 theme: dsi_certificates_theme
 paginate: true
@@ -12,19 +12,13 @@ $ echo "Data Sciences Institute"
 
 ---
 
-# Welcome! 
-
-Introductions and housekeeping
-
----
-
 # Overview of this slide deck
 
 - Explore why we should care about data visualization
 - Question what makes ‘good’ data visualization
 - Introduce a range of software and tools that are used for data visualization
 
----
+-------
 
 # Case Study: Why should we care about data visualization?
 

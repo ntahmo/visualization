@@ -48,15 +48,13 @@
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
-* Submission Due Date: `23:59 - 11/02/2025`
+* Submission Due Date: `23:59 - 02/23/2026`
 * The branch name for your repo should be: `assignment-3`
 * What to submit for this assignment:
     * A folder/directory containing:
-        * This file (assignment_3.md)
-        * Two data visualizations 
-        * Two markdown files for each both visualizations with their written descriptions.
-        * Link to your dataset of choice.
-        * Complete and commented code as an appendix (for your visualization made with Python, and for the other, if relevant) 
+        * Two distinct data visualizations (for example, PNGs, PDFs, or screenshots)
+        * Two Markdown files answering all questions for each visualization (including a link to your dataset in both files)
+        * One Python file contains the complete code and visualization, and another file (with or without code) contains the visualization.
 * What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/visualization/pull/<pr_id>`
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 

@@ -35,13 +35,13 @@ By the end of this module, you will be able to:
 **Questions can be submitted to the #questions channel on Slack**
 
 * Technical Facilitator: 
-  * name and pronouns: `Fan Wang`, `She/Her` 
-  * email: `fw2400@cumc.columbia.edu`
+  * name: `Ciara Zogheib`
+  * email: `ciara.zogheib@mail.utoronto.ca`
 * Learning Support Staff: 
-  * name: `Tianyi`
-  * email: `Tianyi tianyi21e@gmail.com`
-  * name: `Anjali Deshpande`
-  * email: `Anjali Deshpande deshpande2013@gmail.com`
+  * name: `Xindi`
+  * email: `xindi.zhang@mail.utoronto.ca`
+  * name: `Gayathri`
+  * email: `gayathri.girishkumar@mail.utoronto.ca`
   * name: `Vishakh`
   * email: `Vishakh8128@gmail.com`
 
